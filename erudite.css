@@ -1,0 +1,51 @@
+
+body {
+    background-color:wheat;
+
+    
+}
+nav ul {
+    background-color: aqua;
+    list-style: circle;
+
+}
+nav li {
+    display: block;
+    color: black;
+}
+nav li a:hover {
+    background-color: black;
+}
+.LOGOS {
+width: 1250px;
+height: 200px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 1opx;
+padding-bottom:1opx;
+margin-left:none;
+
+
+}
+
+main {
+    flex-wrap:wrap-reverse;
+    display:contents;
+    justify-content:space-between;
+    padding: 20px;
+    
+
+
+
+}
+img {
+    width:800px;
+    height: 500px;
+    vertical-align:middle;
+    padding: 60px;
+
+}
+.rods {
+    width: 500px;
+    height: 1000px;
+}

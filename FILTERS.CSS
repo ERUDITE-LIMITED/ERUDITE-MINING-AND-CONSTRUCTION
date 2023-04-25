@@ -1,0 +1,40 @@
+
+button {
+    background-color: black;
+    text-emphasis-color: white;
+    padding: 10px;
+    transition: ease-in;
+    opacity:initial;
+}
+.logos { 
+    width: 1250px;
+   height: 200px;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 1opx;
+   padding-bottom:1opx;
+   margin-left:none;
+}
+main {
+    flex-wrap:wrap-reverse;
+    display:contents;
+    justify-content:space-between;
+    padding: 20px;
+    
+
+
+
+}
+body {
+    background-color:wheat;
+
+    
+}
+img {
+    width:auto;
+    height: auto;
+    vertical-align:middle;
+    padding: 60px;
+
+}
+    

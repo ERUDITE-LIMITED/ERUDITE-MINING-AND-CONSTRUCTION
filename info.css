@@ -1,0 +1,35 @@
+.logos { 
+     width: 1250px;
+    height: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 1opx;
+    padding-bottom:1opx;
+    margin-left:none;
+
+}
+  
+
+img {
+    width:auto;
+    height: auto;
+    vertical-align:middle;
+    padding: 60px;
+
+}
+.rods {
+    width: 500px;
+    height: 1000px;
+}
+button {
+    background-color: black;
+    text-emphasis-color: white;
+    padding: 10px;
+    transition: ease-in;
+    opacity:initial;
+    
+
+
+
+
+}
