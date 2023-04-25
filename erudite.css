@@ -2,6 +2,7 @@ body{
     background-image: url("images/PXL_20230425_103929145.PORTRAIT.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: aqua;
 }
 nav ul {
     background-color: white;
